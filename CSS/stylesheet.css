@@ -158,7 +158,7 @@ footer {
 
   /*PHOTO---------------------*/
   .photo-list li {
-    width: 600px;
+    max-width: 100%;
     margin: 0 auto;
     margin-bottom: 15px;
   }
