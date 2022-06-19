@@ -160,9 +160,9 @@ footer {
   .photo-list li {
     margin: 0 auto;
     margin-bottom: 15px;
+    width :100%;
   }
-  .item img {
-     width: 100%;
+ 
   }
   .photo-list {
     flex-direction: column;
