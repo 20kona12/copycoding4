@@ -158,11 +158,12 @@ footer {
 
   /*PHOTO---------------------*/
   .photo-list li {
-    width: 100vh;
     margin: 0 auto;
     margin-bottom: 15px;
   }
-
+  .photo-list img {
+     width: 100%;
+  }
   .photo-list {
     flex-direction: column;
     margin-bottom: 45px;
