@@ -79,7 +79,7 @@ section h2 {
 /*photo-----------------*/
 .photo-list li {
   list-style:none;
-  width: 49%;
+  width: 270px;
   margin-bottom: 15px;
 }
 
