@@ -77,7 +77,7 @@ section h2 {
 }
 
 /*photo-----------------*/
-.photo-list li .photo-list img {
+.photo-list li, .photo-list img {
   list-style:none;
   width: 49%;
   margin-bottom: 15px;
@@ -157,7 +157,7 @@ footer {
   } 
 
   /*PHOTO---------------------*/
-  .photo-list li .photo-list img {
+  .photo-list li, .photo-list img {
     margin: 0 auto;
     margin-bottom: 15px;
     width :100%;
